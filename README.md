@@ -1,6 +1,6 @@
 # Docker Images
 
-Docker images collection specific for rapid development.
+Docker images collection for rapid development.
 
 ## Building
 
